@@ -20,7 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Github Repository](https://github.com/Pedro-Celeste/qr-code-challenge)
+- Solution URL: [Github Repository](https://github.com/Pedro-Celeste/qr-code-component)
+- Live URL: [Vercel Deployment Live Website](https://qr-code-challenge-beta.vercel.app/)
 
 ## My process
 
@@ -53,7 +54,9 @@ Here's how I did it:
   transform: translate(-50%, -50%);
 }
 
-/* This class positions the top and left edge of the element at the halfway point of the page, then moves it back half the length of the object itself, completely centering it. */
+/* This class positions the top and left edge of the element at the halfway point
+ of the page, then moves it back half the length of the object itself, completely
+ centering it. */
 ```
 
 ### Continued development
