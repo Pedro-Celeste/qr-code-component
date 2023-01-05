@@ -101,4 +101,4 @@ I'm looking forward to explore more ways of specifying the layout of a page.
 
 ## Acknowledgements 
 
-A huge thanks again to [@MelvinAguilar](https://www.frontendmentor.io/profile/MelvinAguilar) for the insightful piecie of feedback.
+A huge thanks again to [@MelvinAguilar](https://www.frontendmentor.io/profile/MelvinAguilar) for the insightful piece of feedback.
