@@ -60,7 +60,7 @@ Here's how I did it:
  centering it. */
 ```
 
-**Update: After a very insightful piece of feedback by [@MelvingAguilar](https://www.frontendmentor.io/profile/MelvinAguilar) I changed a lot of things in the source code an learned a ton of things.**
+**Update: After a very insightful piece of feedback by [@MelvingAguilar](https://www.frontendmentor.io/profile/MelvinAguilar) I changed a lot of things in the source code an learned a ton of stuff.**
 
 The main things I learned about were:
 - **CSS Flexbox**.
